@@ -1,0 +1,8 @@
+TODO:
+- UP/DOWN/LEFT/RIGHT -> move cursor.
++ HOME button -> beginning of line.
++ END button -> end of line.
++ X = 0 BACKSPACE -> go to above line.
+- Interrupts (ep. 5).
+
+- Command-line commands.
